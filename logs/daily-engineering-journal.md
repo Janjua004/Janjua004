@@ -471,3 +471,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-06-26 17:12]` Docs: update semester laboratory exercises and algorithmic proofs
 - `[2025-07-01 16:15]` Feat: implement binary search tree traversal in c++
 - `[2025-07-01 22:13]` Chore: configure qt creator project dependencies and build flags
+- `[2025-07-01 16:43]` Feat: create leave request approval workflow and data models
