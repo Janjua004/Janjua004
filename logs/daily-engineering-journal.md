@@ -520,3 +520,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-08-05 15:28]` Fix: resolve pointer memory leaks in dynamic array allocations
 - `[2025-08-05 12:00]` Feat: build employee management prototype with qt gui
 - `[2025-08-07 17:08]` Feat: implement binary search tree traversal in c++
+- `[2025-08-07 11:46]` Feat: create leave request approval workflow and data models
