@@ -554,3 +554,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-09-24 22:31]` Feat: create leave request approval workflow and data models
 - `[2025-09-24 12:03]` Style: design responsive desktop form controls with qt stylesheets
 - `[2025-09-29 14:15]` Docs: add data structure time and space complexity notes
+- `[2025-09-30 20:57]` Fix: resolve pointer memory leaks in dynamic array allocations
