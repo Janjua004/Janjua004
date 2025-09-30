@@ -556,3 +556,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-09-29 14:15]` Docs: add data structure time and space complexity notes
 - `[2025-09-30 20:57]` Fix: resolve pointer memory leaks in dynamic array allocations
 - `[2025-09-30 21:35]` Chore: configure qt creator project dependencies and build flags
+- `[2025-09-30 20:33]` Test: unit test stack and queue edge cases with test datasets
