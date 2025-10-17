@@ -573,3 +573,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-10-16 22:00]` Docs: add data structure time and space complexity notes
 - `[2025-10-16 18:08]` Feat: integrate file-based persistence for employee records
 - `[2025-10-16 19:49]` Refactor: optimize linked list node deletion algorithm
+- `[2025-10-17 12:17]` Docs: update semester laboratory exercises and algorithmic proofs
