@@ -594,3 +594,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-10-30 22:22]` Feat: integrate file-based persistence for employee records
 - `[2025-10-31 14:13]` Feat: implement login authentication dialog and input validation
 - `[2025-10-31 14:10]` Docs: add data structure time and space complexity notes
+- `[2025-10-31 18:26]` Fix: resolve pointer memory leaks in dynamic array allocations
