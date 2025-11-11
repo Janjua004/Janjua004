@@ -603,3 +603,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-11-05 15:19]` Feat: build employee management prototype with qt gui
 - `[2025-11-05 10:45]` Fix: resolve pointer memory leaks in dynamic array allocations
 - `[2025-11-07 19:39]` Feat: integrate file-based persistence for employee records
+- `[2025-11-11 15:04]` Feat: create leave request approval workflow and data models
