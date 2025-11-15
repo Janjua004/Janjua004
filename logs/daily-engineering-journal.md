@@ -610,3 +610,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-11-14 11:11]` Docs: add data structure time and space complexity notes
 - `[2025-11-14 21:18]` Feat: build employee management prototype with qt gui
 - `[2025-11-14 14:22]` Feat: build employee management prototype with qt gui
+- `[2025-11-15 20:51]` Chore: configure qt creator project dependencies and build flags
