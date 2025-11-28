@@ -629,3 +629,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-11-26 12:40]` Refactor: modularize student oop class hierarchies and inheritance
 - `[2025-11-27 22:40]` Refactor: modularize student oop class hierarchies and inheritance
 - `[2025-11-28 10:09]` Fix: resolve pointer memory leaks in dynamic array allocations
+- `[2025-11-28 19:27]` Docs: add data structure time and space complexity notes
