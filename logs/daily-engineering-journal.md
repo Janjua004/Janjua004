@@ -635,3 +635,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-11-30 17:30]` Perf: optimize sorting algorithms and quicksort partition logic
 - `[2025-12-02 20:17]` Fix: resolve pointer memory leaks in dynamic array allocations
 - `[2025-12-03 21:59]` Feat: integrate file-based persistence for employee records
+- `[2025-12-03 20:17]` Docs: add data structure time and space complexity notes
