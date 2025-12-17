@@ -648,3 +648,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2025-12-15 11:03]` Feat: create leave request approval workflow and data models
 - `[2025-12-15 22:27]` Docs: add data structure time and space complexity notes
 - `[2025-12-16 18:26]` Docs: update semester laboratory exercises and algorithmic proofs
+- `[2025-12-17 22:20]` Perf: optimize sorting algorithms and quicksort partition logic
