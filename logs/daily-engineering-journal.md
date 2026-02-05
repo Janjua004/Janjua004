@@ -699,3 +699,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-01-29 16:16]` Perf: optimize eloquent query eager loading and indexing
 - `[2026-02-02 11:48]` Refactor: extract modular vue.js components and state management
 - `[2026-02-02 11:41]` Chore: configure vite bundling pipeline and asset minimization
+- `[2026-02-05 21:11]` Docs: document api endpoints and postman collection schemas
