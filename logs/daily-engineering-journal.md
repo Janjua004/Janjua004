@@ -718,3 +718,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-02-21 12:50]` Perf: optimize eloquent query eager loading and indexing
 - `[2026-02-21 20:41]` Test: add api endpoint integration test assertions
 - `[2026-02-26 13:51]` Feat: build responsive navigation drawer and theme toggler
+- `[2026-02-26 14:15]` Docs: document api endpoints and postman collection schemas
