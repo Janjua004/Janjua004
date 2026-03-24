@@ -742,3 +742,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-03-14 22:26]` Perf: optimize eloquent query eager loading and indexing
 - `[2026-03-16 20:39]` Chore: configure vite bundling pipeline and asset minimization
 - `[2026-03-19 13:59]` Chore: configure vite bundling pipeline and asset minimization
+- `[2026-03-24 12:48]` Docs: document api endpoints and postman collection schemas
