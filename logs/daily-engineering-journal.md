@@ -745,3 +745,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-03-24 12:48]` Docs: document api endpoints and postman collection schemas
 - `[2026-03-24 13:45]` Feat: integrate frontend utility helpers and date formatting tools
 - `[2026-03-30 11:05]` Test: add api endpoint integration test assertions
+- `[2026-03-30 20:55]` Refactor: normalize relational database schemas with mysql
