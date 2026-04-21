@@ -767,3 +767,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-04-15 18:50]` Feat: implement authentication guards and role-based access control
 - `[2026-04-20 21:52]` Test: add api endpoint integration test assertions
 - `[2026-04-20 14:59]` Chore: configure vite bundling pipeline and asset minimization
+- `[2026-04-21 15:16]` Docs: document api endpoints and postman collection schemas
