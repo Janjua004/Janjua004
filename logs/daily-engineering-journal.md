@@ -77,3 +77,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-07-07 12:02]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #73
 - `[2026-07-08 18:19]` Test: add integration test cases for authentication flow - Sprint checkpoint #74
 - `[2026-07-08 12:13]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #75
+- `[2026-07-08 18:10]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #76
