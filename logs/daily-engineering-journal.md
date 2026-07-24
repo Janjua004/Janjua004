@@ -118,3 +118,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-07-23 19:15]` Feat: implement role-based access control and permission gates - Sprint checkpoint #114
 - `[2026-07-23 15:41]` Perf: improve client-side asset bundling and lazy loading - Sprint checkpoint #115
 - `[2026-07-23 21:32]` Refactor: extract reusable ui modal and notification toast components - Sprint checkpoint #116
+- `[2026-07-24 18:36]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #117
