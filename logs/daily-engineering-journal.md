@@ -188,3 +188,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-08-19 16:43]` Chore: update dependencies and build pipeline configuration - Sprint checkpoint #184
 - `[2026-08-19 12:30]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #185
 - `[2026-08-19 17:43]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #186
+- `[2026-08-19 15:33]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #187
