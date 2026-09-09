@@ -246,3 +246,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-09-08 10:30]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #242
 - `[2026-09-08 21:47]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #243
 - `[2026-09-09 10:58]` Perf: improve client-side asset bundling and lazy loading - Sprint checkpoint #244
+- `[2026-09-09 18:47]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #245
