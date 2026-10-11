@@ -355,3 +355,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-10-10 10:58]` Perf: improve client-side asset bundling and lazy loading - Sprint checkpoint #351
 - `[2026-10-10 21:04]` Feat: implement role-based access control and permission gates - Sprint checkpoint #352
 - `[2026-10-10 21:41]` Fix: sanitize input payloads and enhance form validations - Sprint checkpoint #353
+- `[2026-10-11 19:08]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #354
