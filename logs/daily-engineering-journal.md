@@ -362,3 +362,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-10-11 13:14]` Perf: reduce initial load time and optimize svg assets - Sprint checkpoint #358
 - `[2026-10-12 21:37]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #359
 - `[2026-10-12 20:36]` Style: modernize responsive grid layout for mobile breakpoints - Sprint checkpoint #360
+- `[2026-10-12 21:50]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #361
