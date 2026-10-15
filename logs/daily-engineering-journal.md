@@ -372,3 +372,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-10-14 11:48]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #368
 - `[2026-10-15 09:00]` Test: add integration test cases for authentication flow - Sprint checkpoint #369
 - `[2026-10-15 20:40]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #370
+- `[2026-10-15 15:47]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #371
