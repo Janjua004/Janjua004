@@ -381,3 +381,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-10-17 09:09]` Refactor: optimize database query scopes and indexing - Sprint checkpoint #377
 - `[2026-10-17 12:46]` Fix: resolve edge cases in pagination and filtering logic - Sprint checkpoint #378
 - `[2026-10-18 20:46]` Feat: implement role-based access control and permission gates - Sprint checkpoint #379
+- `[2026-10-18 09:22]` Docs: update api endpoints and request schema documentation - Sprint checkpoint #380
