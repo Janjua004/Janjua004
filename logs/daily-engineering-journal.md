@@ -385,3 +385,4 @@ Daily log of engineering sprints, optimizations, and system architecture updates
 - `[2026-10-18 18:36]` Style: modernize responsive grid layout for mobile breakpoints - Sprint checkpoint #381
 - `[2026-10-18 20:12]` Chore: update dependencies and build pipeline configuration - Sprint checkpoint #382
 - `[2026-10-18 15:27]` Refactor: modularize eloquent models and relational mappings - Sprint checkpoint #383
+- `[2026-10-19 21:42]` Docs: refine project setup and local deployment guidelines - Sprint checkpoint #384
