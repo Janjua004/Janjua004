@@ -11,9 +11,10 @@
   <!-- High-Status Profile Badges & Counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Janjua004&label=Profile%20Views&color=0ea5e9&style=for-the-badge&base=1450" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Total_Commits-430%2B-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+    <img src="https://img.shields.io/badge/Total_Commits-800%2B-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
     <img src="https://img.shields.io/badge/Production_Apps-4+_Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Production Apps" />
     <img src="https://img.shields.io/badge/Engineering-Full_Stack_Architect-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" alt="Engineering Rank" />
+    <img src="https://img.shields.io/badge/GitHub-PRO_Developer-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="PRO Developer" />
   </p>
 
   <!-- Connect Channels -->
@@ -31,6 +32,19 @@
       <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
+</div>
+
+---
+
+### 🏅 Highlights & Badges
+
+<div align="center">
+
+| Status Badges | Special Accolades |
+| :--- | :--- |
+| ![GitHub Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-1f6feb?style=for-the-badge&logo=github&logoColor=white) ![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-238636?style=for-the-badge&logo=github&logoColor=white) ![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair_Extraordinaire-a371f7?style=for-the-badge&logo=github&logoColor=white) | ![YOLO](https://img.shields.io/badge/Achievement-YOLO-f0883e?style=for-the-badge&logo=github&logoColor=white) ![Galaxy Brain](https://img.shields.io/badge/Achievement-Galaxy_Brain-8957e5?style=for-the-badge&logo=github&logoColor=white) ![Arctic Code Vault](https://img.shields.io/badge/Archive-Arctic_Code_Vault-0075ca?style=for-the-badge&logo=github&logoColor=white) |
+| ![Full Stack Architect](https://img.shields.io/badge/Rank-Senior_Full_Stack_Dev-e11d48?style=flat-square&logo=codeforces&logoColor=white) ![Ex-Bitlogicx](https://img.shields.io/badge/Experience-Ex--Bitlogicx_Engineer-059669?style=flat-square&logo=apache&logoColor=white) | ![50K Monthly Users](https://img.shields.io/badge/Traffic-50K+_Executions/Mo-0284c7?style=flat-square&logo=cloudflare&logoColor=white) ![BS Software Engineering](https://img.shields.io/badge/Academic-BS_Software_Engineering-d97706?style=flat-square&logo=googleclassroom&logoColor=white) |
 
 </div>
 
@@ -87,12 +101,12 @@ I am a **Full Stack Web Developer** and undergraduate software engineer at **The
 
 <div align="center">
   <!-- Cleaned stats with rank circle hidden & updated commit metrics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Janjua004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0&hide_rank=true&cache_bust=2" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjua004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&cache_bust=2" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janjua004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0&hide_rank=true&cache_bust=3" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjua004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&cache_bust=3" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjua004&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&cache_bust=2" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjua004&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&cache_bust=3" height="165" alt="GitHub Streak" />
 </div>
 
 ---
