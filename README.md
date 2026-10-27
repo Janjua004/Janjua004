@@ -5,21 +5,30 @@
 
   <!-- Animated Typing Headline -->
   <a href="https://hammadjanjua.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+Laravel+Developer;Building+Scalable+Web+Platforms;Vue.js+%2B+React.js+Frontend+Engineer;Ex-Developer+%40+Bitlogicx+(ToolsKT.com);BS+Software+Engineering+%40+Superior+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full+Stack+Laravel+Developer;Building+Scalable+Production+Web+Platforms;Vue.js+%2B+React.js+Frontend+Engineer;Ex-Developer+%40+Bitlogicx+(ToolsKT.com);BS+Software+Engineering+%40+Superior+University" alt="Typing SVG" />
   </a>
 
+  <!-- High-Status Profile Badges & Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Janjua004&label=Profile%20Views&color=0ea5e9&style=for-the-badge&base=1450" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Total_Commits-430%2B-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+    <img src="https://img.shields.io/badge/Production_Apps-4+_Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Production Apps" />
+    <img src="https://img.shields.io/badge/Engineering-Full_Stack_Architect-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" alt="Engineering Rank" />
+  </p>
+
+  <!-- Connect Channels -->
   <p align="center">
     <a href="https://hammadjanjua.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-hammadjanjua.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-hammadjanjua.me-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/muhammad-hammad-972393240" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hammad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://wa.me/923259964045" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="mailto:su92-bssem-f24-284@superior.edu.pk">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -27,13 +36,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Profile & Overview
 
-I am a passionate **Full Stack Web Developer** and software engineering undergraduate at **The Superior University, Lahore** (BS Software Engineering &bull; graduating Dec 2028).
+I am a **Full Stack Web Developer** and undergraduate software engineer at **The Superior University, Lahore** (BS Software Engineering &bull; graduating Dec 2028).
 
 - 🔭 **Current Focus:** Architecting high-performance web applications, scalable database systems, and clean user interfaces.
-- 💼 **Industry Background:** Ex-Full Stack Laravel Developer at **Bitlogicx**, where I contributed frontend utilities and components for [ToolsKT.com](https://toolskt.com).
-- 🚀 **Track Record:** Successfully delivered production systems across SaaS platforms, retail e-commerce, and humanitarian portals.
+- 💼 **Industry Background:** Ex-Full Stack Laravel Developer at **Bitlogicx**, where I contributed frontend utilities and interactive components for [ToolsKT.com](https://toolskt.com).
+- 🚀 **Track Record:** Successfully delivered 4+ production systems across custom SaaS utilities, e-commerce retail, and legal edtech portals.
 - ⚡ **Engineering Principles:** Clean MVC architecture, normalized relational schemas, snappy UI/UX, and strict data security.
 
 ---
@@ -41,6 +50,13 @@ I am a passionate **Full Stack Web Developer** and software engineering undergra
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
+
+  <!-- Interactive Skill Icons Grid -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,react,nextjs,tailwind,ts,js,bootstrap,html,css,git,github,postman,vscode,linux,vercel&perline=9" alt="Tech Stack Icons" />
+    </a>
+  </p>
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -52,30 +68,31 @@ I am a passionate **Full Stack Web Developer** and software engineering undergra
 
 ---
 
-### 🚀 Live Products & Featured Repositories
+### 🚀 Live Products & Featured Production Deliveries
 
-| Project / Product | Tech Stack | Description | Live Demo / Repository |
+| Product / Platform | Tech Stack | Description | Live Demo / Access |
 | :--- | :--- | :--- | :--- |
-| **PKTools.tech** | `Laravel` `Vue.js` `MySQL` | High-traffic multi-utility web platform with 50K+ monthly executions & 35+ integrated web tools. | [🔗 Visit Live Platform](https://pktools.tech) |
-| **ToolsKT.com** | `Vue.js` `REST APIs` `Modular UI` | Modular frontend engineering and responsive utilities delivered during tenure at **Bitlogicx**. | [🔗 Explore ToolsKT](https://toolskt.com) |
-| **Legal With Sadia** | `React 18` `TypeScript` `Tailwind` | Full-stack EdTech legal learning platform with interactive course syllabi, case notes library, & student dashboard. | [📦 View GitHub Repo](https://github.com/Janjua004/LegalWithSadia) |
-| **Tailwind BaseUI Templates** | `Next.js 15` `React 19` `Base UI` | Production-grade design system templates with headless Base UI primitives and Tailwind CSS. | [🔗 Live Demo](https://tailwind-baseui-templates.vercel.app) &bull; [📦 Repo](https://github.com/Janjua004/tailwind-baseui-templates) |
-| **Rayyan Foundation** | `Next.js` `Tailwind` `Vercel` | Modern, responsive humanitarian welfare and community donation web portal delivered pro bono. | [🔗 Visit Live Portal](https://rayyan1-rose.vercel.app) |
-| **Employee Attendance System** | `C++` `Qt` `Data Structures` | Desktop GUI management application implementing LinkedList, Stack, Queue, BST algorithms & role-based dashboards. | [📦 View GitHub Repo](https://github.com/Janjua004/Employee-Attendance-Management-System-C-Qt-Desktop-Application-) |
+| **PKTools.tech** | `Laravel` `Vue.js` `MySQL` | High-traffic multi-utility web platform with 50K+ monthly executions & 35+ integrated web tools. | [🔗 Visit Live Platform ↗](https://pktools.tech) |
+| **ToolsKT.com** | `Vue.js` `REST APIs` `Modular UI` | Modular frontend engineering and responsive utilities delivered during tenure at **Bitlogicx**. | [🔗 Explore ToolsKT ↗](https://toolskt.com) |
+| **Legal With Sadia** | `React 18` `TypeScript` `Tailwind` | Full-stack EdTech legal platform featuring interactive course syllabi, case notes library, & student dashboard. | [🔗 Visit Live Website ↗](https://legal-with-sadia.vercel.app) |
+| **Tailwind BaseUI Templates** | `Next.js 15` `React 19` `Base UI` | Production-grade design system templates with headless Base UI primitives and Tailwind CSS. | [🔗 Live Demo ↗](https://tailwind-baseui-templates.vercel.app) &bull; [📦 Repo](https://github.com/Janjua004/tailwind-baseui-templates) |
+| **Rayyan Foundation** | `Next.js` `Tailwind` `Vercel` | Modern, responsive humanitarian welfare and community donation web portal delivered pro bono. | [🔗 Visit Live Portal ↗](https://rayyan1-rose.vercel.app) |
+| **Employee Attendance System** | `C++` `Qt` `Data Structures` | Desktop GUI management application implementing LinkedList, Stack, Queue, BST algorithms & role-based dashboards. | [📦 View GitHub Repo ↗](https://github.com/Janjua004/Employee-Attendance-Management-System-C-Qt-Desktop-Application-) |
 | **Dua Trends** | `PHP` `E-Commerce` `MySQL` | High-converting commercial e-commerce retail store with mobile-first catalog, checkout, and inventory flow. | 🛍️ Live Commercial Retail |
-| **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | Ultra-fast, zero-dependency developer portfolio with custom lightbox gallery & dark mode. | [🔗 hammadjanjua.me](https://hammadjanjua.me) |
+| **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | Ultra-fast, zero-dependency developer portfolio with custom lightbox gallery & dark mode. | [🔗 hammadjanjua.me ↗](https://hammadjanjua.me) |
 
 ---
 
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janjua004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjua004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="175" alt="Top Languages" />
+  <!-- Cleaned stats with rank circle hidden & updated commit metrics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Janjua004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=e2e8f0&hide_rank=true&cache_bust=2" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janjua004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&cache_bust=2" height="175" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjua004&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janjua004&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&cache_bust=2" height="165" alt="GitHub Streak" />
 </div>
 
 ---
