@@ -29,12 +29,12 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Web Developer** and undergraduate software engineer at **The Superior University, Lahore** (BS Software Engineering &bull; graduating Dec 2028).
+I am a passionate **Full Stack Web Developer** and software engineering undergraduate at **The Superior University, Lahore** (BS Software Engineering &bull; graduating Dec 2028).
 
 - 🔭 **Current Focus:** Architecting high-performance web applications, scalable database systems, and clean user interfaces.
-- 💼 **Industry Background:** Ex-Full Stack Laravel Developer at **Bitlogicx**, where I built backend modules and engineered frontend utilities for [ToolsKT.com](https://toolskt.com).
-- 🚀 **Track Record:** Successfully delivered 4+ production systems across custom SaaS utilities, e-commerce retail, and humanitarian portals.
-- ⚡ **Engineering Principles:** Clean MVC architecture, normalized relational databases, high-speed UX, and strict security practices.
+- 💼 **Industry Background:** Ex-Full Stack Laravel Developer at **Bitlogicx**, where I contributed frontend utilities and components for [ToolsKT.com](https://toolskt.com).
+- 🚀 **Track Record:** Successfully delivered production systems across SaaS platforms, retail e-commerce, and humanitarian portals.
+- ⚡ **Engineering Principles:** Clean MVC architecture, normalized relational schemas, snappy UI/UX, and strict data security.
 
 ---
 
@@ -45,23 +45,25 @@ I am a passionate **Full Stack Web Developer** and undergraduate software engine
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend & Databases** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend & UI** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend & UI** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
 ---
 
-### 🚀 Featured Production Deliveries
+### 🚀 Live Products & Featured Repositories
 
-| Project | Stack | Description | Live Link |
+| Project / Product | Tech Stack | Description | Live Demo / Repository |
 | :--- | :--- | :--- | :--- |
-| **PKTools.tech** | `Laravel` `Vue.js` `MySQL` | High-traffic multi-utility web platform handling 50K+ monthly API executions with 35+ integrated web tools. | [Visit Platform ↗](https://pktools.tech) |
-| **ToolsKT.com** | `Vue.js` `REST APIs` `Modular UI` | Contributed modular frontend components and client-side utilities during tenure at **Bitlogicx**. | [Explore ToolsKT ↗](https://toolskt.com) |
-| **Dua Trends** | `PHP` `E-Commerce` `MySQL` | High-converting commercial e-commerce store with mobile-first catalog, checkout, and inventory flow. | Live Retail |
-| **Rayyan Foundation** | `Next.js` `Tailwind` `Vercel` | Modern, responsive humanitarian welfare and community donation web portal delivered pro bono. | [Live Portal ↗](https://rayyan1-rose.vercel.app) |
-| **Employee Attendance System** | `C++` `Qt` `DSA` | Desktop management software with LinkedList, Stack, Queue, BST algorithms & role-based dashboards. | [GitHub Repo ↗](https://github.com/Janjua004/Employee-Attendance-Management-System-C-Qt-Desktop-Application-) |
-| **Personal Portfolio** | `HTML5` `CSS3` `JavaScript` | Ultra-fast, zero-dependency developer portfolio with custom lightbox gallery & dark mode. | [hammadjanjua.me ↗](https://hammadjanjua.me) |
+| **PKTools.tech** | `Laravel` `Vue.js` `MySQL` | High-traffic multi-utility web platform with 50K+ monthly executions & 35+ integrated web tools. | [🔗 Visit Live Platform](https://pktools.tech) |
+| **ToolsKT.com** | `Vue.js` `REST APIs` `Modular UI` | Modular frontend engineering and responsive utilities delivered during tenure at **Bitlogicx**. | [🔗 Explore ToolsKT](https://toolskt.com) |
+| **Legal With Sadia** | `React 18` `TypeScript` `Tailwind` | Full-stack EdTech legal learning platform with interactive course syllabi, case notes library, & student dashboard. | [📦 View GitHub Repo](https://github.com/Janjua004/LegalWithSadia) |
+| **Tailwind BaseUI Templates** | `Next.js 15` `React 19` `Base UI` | Production-grade design system templates with headless Base UI primitives and Tailwind CSS. | [🔗 Live Demo](https://tailwind-baseui-templates.vercel.app) &bull; [📦 Repo](https://github.com/Janjua004/tailwind-baseui-templates) |
+| **Rayyan Foundation** | `Next.js` `Tailwind` `Vercel` | Modern, responsive humanitarian welfare and community donation web portal delivered pro bono. | [🔗 Visit Live Portal](https://rayyan1-rose.vercel.app) |
+| **Employee Attendance System** | `C++` `Qt` `Data Structures` | Desktop GUI management application implementing LinkedList, Stack, Queue, BST algorithms & role-based dashboards. | [📦 View GitHub Repo](https://github.com/Janjua004/Employee-Attendance-Management-System-C-Qt-Desktop-Application-) |
+| **Dua Trends** | `PHP` `E-Commerce` `MySQL` | High-converting commercial e-commerce retail store with mobile-first catalog, checkout, and inventory flow. | 🛍️ Live Commercial Retail |
+| **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | Ultra-fast, zero-dependency developer portfolio with custom lightbox gallery & dark mode. | [🔗 hammadjanjua.me](https://hammadjanjua.me) |
 
 ---
 
